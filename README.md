@@ -8,13 +8,13 @@ April 20th, 2015 | Erica Cha
 
 <h3>Technologies</h3>
 
-JavaScript
-Mocha.js
-Chai.js
-jQuery
-HTML
-Bootsrap
-CSS
+JavaScript <br>
+Mocha.js <br>
+Chai.js <br>
+jQuery <br>
+HTML <br>
+Bootsrap <br>
+CSS <br>
 Angular
 
 <h3>Setup Instructions</h3>
