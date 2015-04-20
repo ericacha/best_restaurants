@@ -8,4 +8,9 @@ studentRoster.controller('StudentsCtrl', function StudentsCtrl($scope) {
         $scope.students.push({ name: $scope.studentName });
         $scope.studentName = null;
     };
+    //pass in the student as an argument to the method
+    $scope.deleteStudent = function(student) {
+        var index = $scope.students.indexOf(student);
+        $scope.students.splice(index,1);
+    };
 });
